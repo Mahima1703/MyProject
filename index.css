@@ -1,0 +1,18 @@
+h1{
+    color:rgb(57,255,255);
+    background-color: bisque;
+    display: inline-block;
+    width: 500px;
+    height: 400px;
+}
+p{
+    color:brown;
+}
+a{
+    background-color: coral;
+    display: block;
+}
+img {
+
+    background-color: brown;
+}
